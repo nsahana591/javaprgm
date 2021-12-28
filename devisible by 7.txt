@@ -1,0 +1,7 @@
+let x=10
+if(x/7){
+console.log("x is devisible by 7")
+}
+else{
+console.log("x is not devisible by 7")
+}
