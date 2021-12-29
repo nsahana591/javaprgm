@@ -5,4 +5,4 @@ class Test2{
         s2=cancate
         System.out.println(s1+s2);
     }
-}
+};
